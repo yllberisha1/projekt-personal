@@ -1,0 +1,35 @@
+[
+  {
+    "username": "yllberisha",
+    "password": "1234",
+    "age": 18,
+    "gender": "male",
+    "weight": 100.0,
+    "height": 190.0,
+    "goal": "lose",
+    "diet_type": "non-vegetarian",
+    "activity_level": "medium"
+  },
+  {
+    "username": "drilonbaba123",
+    "password": "drilonbaba123",
+    "age": 17,
+    "gender": "male",
+    "weight": 120.0,
+    "height": 191.0,
+    "goal": "gain",
+    "diet_type": "non-vegetarian",
+    "activity_level": "medium"
+  },
+  {
+    "username": "yllberisha11",
+    "password": "yllberisha",
+    "age": 18,
+    "gender": "male",
+    "weight": 100.0,
+    "height": 190.0,
+    "goal": "lose",
+    "diet_type": "non-vegetarian",
+    "activity_level": "medium"
+  }
+]
